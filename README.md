@@ -4,7 +4,7 @@ AI-powered meal planning for your household. Generate weekly meal plans, get rec
 
 ## Features
 
-- 🍽️ Generate customized meal plans based on dietary preferences
+- 🍽️ Generate customized meal plans based on dietary preferences  
 - 📝 Get detailed recipes on-demand
 - 🛒 Auto-generated shopping lists organized by category
 - 📱 Export to Apple Notes (iOS/macOS)
